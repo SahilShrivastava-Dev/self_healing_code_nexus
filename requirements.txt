@@ -1,0 +1,23 @@
+# Streamlit web UI
+streamlit>=1.22.0
+
+# Environment variable loader
+python-dotenv>=1.0.0
+
+# Data handling for charts
+pandas>=2.0.0
+numpy>=1.24.0
+
+# LangChain & OpenAI client
+langchain>=0.0.200
+openai>=0.27.0
+
+# Static analysis tools
+flake8>=6.0.0
+black>=23.7.0
+
+# GitHub API integration
+PyGithub
+
+# Analytics database
+SQLAlchemy
