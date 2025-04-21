@@ -1,4 +1,3 @@
-```markdown
 # Self-Healing Code Nexus
 
 Welcome to the **Self-Healing Code Nexus**, an innovative AI-powered application designed to detect bugs and inefficiencies in your code and suggest intelligent fixes with human approval. Built for the Accenture Google Agentic AI Hackathon, this project leverages LangChain, OpenAI, and Streamlit to create a futuristic, user-friendly coding assistant.
@@ -80,4 +79,3 @@ This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file fo
 
 ---
 *Version 1.1 | Last Updated: April 19, 2025, 12:10 PM PDT*
-```
